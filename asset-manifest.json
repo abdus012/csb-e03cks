@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abdus012.github.io/csb-e03cks/static/css/main.f3fd2107.chunk.css",
+    "main.js": "https://abdus012.github.io/csb-e03cks/static/js/main.2d713964.chunk.js",
+    "main.js.map": "https://abdus012.github.io/csb-e03cks/static/js/main.2d713964.chunk.js.map",
+    "runtime-main.js": "https://abdus012.github.io/csb-e03cks/static/js/runtime-main.d94ee3b3.js",
+    "runtime-main.js.map": "https://abdus012.github.io/csb-e03cks/static/js/runtime-main.d94ee3b3.js.map",
+    "static/js/2.ae24a4f1.chunk.js": "https://abdus012.github.io/csb-e03cks/static/js/2.ae24a4f1.chunk.js",
+    "static/js/2.ae24a4f1.chunk.js.map": "https://abdus012.github.io/csb-e03cks/static/js/2.ae24a4f1.chunk.js.map",
+    "index.html": "https://abdus012.github.io/csb-e03cks/index.html",
+    "static/css/main.f3fd2107.chunk.css.map": "https://abdus012.github.io/csb-e03cks/static/css/main.f3fd2107.chunk.css.map",
+    "static/js/2.ae24a4f1.chunk.js.LICENSE.txt": "https://abdus012.github.io/csb-e03cks/static/js/2.ae24a4f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d94ee3b3.js",
+    "static/js/2.ae24a4f1.chunk.js",
+    "static/css/main.f3fd2107.chunk.css",
+    "static/js/main.2d713964.chunk.js"
+  ]
+}
